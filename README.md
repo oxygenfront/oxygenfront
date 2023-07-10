@@ -88,10 +88,7 @@
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=oxygen23&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
-    <td>
-      <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oxygen23&theme=react
-'/>
-    </td>
+    
   </tr>
   <tr>
     <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oxygen23&theme=react'/>
