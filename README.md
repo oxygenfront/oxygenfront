@@ -83,7 +83,7 @@
 
 ### ⚙️ GitHub статистика:
 
-<table style="overflow: hidden">
+<table style="overflow: hidden !important">
   <tr>
     <td align="center">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=oxygen23&theme=dark&background=000000" alt="webDev's Github stats" />
