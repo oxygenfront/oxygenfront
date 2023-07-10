@@ -36,19 +36,19 @@
 
 ### 💻 Технологии:
 
-<div style='display: flex; align-items: center; width: 900px; justify-content: space-between'>
-  <img src='assets/icons/git.svg' width='50' ></img>
-  <img src='assets/icons/html.svg' width='50' ></img>
-  <img src='assets/icons/css.svg' width='50' ></img>
-  <img src='assets/icons/sass.svg' width='50' ></img>
-  <img src='assets/icons/js.svg' width='50' ></img>
-  <img src='assets/icons/react.svg' width='50' ></img>
-  <img src='assets/icons/redux.svg' width='50' ></img>
-  <img src='assets/icons/react-query.svg' width='50' ></img>
-  <img src='assets/icons/typescript.svg' width='50' ></img>
+<div style='display: flex; align-items: center !important; width: 900px; justify-content: space-between'>
+  <img src='assets/icons/git.svg' width='60' ></img>
+  <img src='assets/icons/html.svg' width='60' ></img>
+  <img src='assets/icons/css.svg' width='60' ></img>
+  <img src='assets/icons/sass.svg' width='60' ></img>
+  <img src='assets/icons/js.svg' width='60' ></img>
+  <img src='assets/icons/react.svg' width='60' ></img>
+  <img src='assets/icons/redux.svg' width='60' ></img>
+  <img src='assets/icons/react-query.svg' width='60' ></img>
+  <img src='assets/icons/typescript.svg' width='60' ></img>
   <img src='assets/icons/Nextjs.svg' width='90' ></img>
-  <img src='assets/icons/tailwindcss.svg' width='50' ></img>
-  <img src='assets/icons/materialize.svg' width='50' ></img>
+  <img src='assets/icons/tailwindcss.svg' width='60' ></img>
+  <img  src='assets/icons/materialize.svg' width='60' height='60'></img>
 </div>
 
 ---
