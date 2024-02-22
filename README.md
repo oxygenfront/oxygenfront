@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я Middle Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в It начался с изучения языка Python, но в скором времени я понял, что мне это не подходит и начал искать новые направляения. Так я и пришел в Веб-разработку. Сегодня я владею React, менеджерами состояний Redux/Redux-toolkit, для работы с api использую React Query. Освоил TS и NextJS. 
+Я Junior+ Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в It начался с изучения языка Python, но в скором времени я понял, что мне это не подходит и начал искать новые направляения. Так я и пришел в Веб-разработку. Сегодня я владею React, менеджерами состояний Redux/Redux-toolkit, для работы с api использую React Query. Освоил TS и NextJS. 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
