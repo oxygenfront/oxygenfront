@@ -15,7 +15,7 @@
 
 - :seedling: Завершил несколько курсов на Ютуб на тему ReactJs
 
-- :zap: Являюсь Middle Frontend Developer
+- :zap: Являюсь Junior+ Frontend Developer
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/oxygenfront)  [![VK Badge](https://img.shields.io/badge/VK-Badge?style=flat&logo=vk&logoColor=white&color=%2326A5E4)](https://vk.com/oxygenfront) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:markyurkulskiy@gmail.com)
 
